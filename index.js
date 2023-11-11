@@ -1,1 +1,2 @@
-console.log("hello world")
+const server = "Hello server";
+const port = 5000;
